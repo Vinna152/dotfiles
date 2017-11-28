@@ -2,6 +2,8 @@
   core:
     telemetryConsent: "limited"
   editor:
+    fontFamily: "Menlo"
+    fontSize: 10
     showIndentGuide: true
     tabType: "soft"
   "exception-reporting":
