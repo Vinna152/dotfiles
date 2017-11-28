@@ -1,0 +1,10 @@
+# Helper Aliases
+
+# Mac Specific
+if [ "$(uname)" = "Darwin" ]
+then
+#    alias vim="Vim"
+fi
+
+alias tmux="tmux -2"
+alias sudo="sudo "
