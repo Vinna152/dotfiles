@@ -50,6 +50,7 @@ brew "macvim"
 brew "mysql"
 brew "node" # Need to run installer first.
 brew "php71"
+brew "pv"
 brew "python"
 brew "python3"
 brew "scala"
