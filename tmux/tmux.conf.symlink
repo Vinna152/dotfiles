@@ -1,2 +1,6 @@
 # Terminal settings
 set -g default-terminal "screen-256color"
+
+# Left and Right word-skip
+set-window-option -g xterm-keys on
+
