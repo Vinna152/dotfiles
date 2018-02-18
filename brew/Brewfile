@@ -9,6 +9,7 @@ cask "bibdesk"
 cask "bitcoin-core"
 cask "bittorrent"
 cask "dbeaver-enterprise"
+cask "docker"
 cask "dropbox"
 cask "filezilla"
 cask "firefox"
@@ -30,8 +31,10 @@ cask "virtualbox"
 
 # Terminal tools.
 brew "gource"
+brew "gpg"
 brew "nmap"
 brew "openssl"
+brew "speedtest-cli"
 brew "tree"
 brew "wget"
 
@@ -41,7 +44,6 @@ brew "tmux"
 brew "zsh"
 
 # Development tools.
-brew "docker"
 brew "gcc"
 brew "gdb"
 brew "git"
